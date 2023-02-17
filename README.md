@@ -6,8 +6,8 @@ In this version not add antivirus module because i'm use api open-source antivir
 But in this project includes two JS modules and JSON config's for use antivirus modules.
 
 **This project includes:** 
-*1. Checksum calculation module.
-*2. Local db check module (added test virus signatures).
-*3. Virustotal service api use module (to run it use Curl).
-*4. Two antivirus modules.
-*5. Base module, dicribeing test execution process.
+1. Checksum calculation module.
+2. Local db check module (added test virus signatures).
+3. Virustotal service api use module (to run it use Curl).
+4. Two antivirus modules.
+5. Base module, dicribeing test execution process.
