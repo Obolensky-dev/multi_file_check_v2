@@ -1,0 +1,26 @@
+{
+	"number_of_module": 4,
+	"modules": {
+		"1": {
+			"name": "Модуль проверки по локальным базам",
+			"path": "../mfc_modules/module_db_check",
+			"file_type": "file_hash_sha512"
+		},
+		"2": {
+			"name": "Модуль проверки на сервисе virustotal",
+			"path": "../mfc_modules/module_virustotal",
+			"file_type": "file_hash_sha256"
+		},
+		"3": {
+			"name": "Модуль проверки локальным антивирусом собственной разработки",
+			"path": "../mfc_modules/module_simpleav",
+			"file_type": "file_name"
+		},
+		"4": {
+			"name": "Модуль проверки локальным антивирусом ClamAV",
+			"path": "../mfc_modules/module_clamav",
+			"file_type": "file_path"
+		}
+	}
+
+}

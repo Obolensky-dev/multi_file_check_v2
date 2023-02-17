@@ -1,0 +1,7 @@
+{
+    "curl": "c:\\mult_file_check\\tools\\curl\\curl-7.67.0-win64-mingw\\bin\\curl.exe",
+    "apikey": "thismyapikey",
+    "tempdir": "c:\\mult_file_check\\temp",
+    "url": "https://www.virustotal.com/vtapi/v2/file/report",
+    "verbose": 1
+}

@@ -1,0 +1,14 @@
+{
+    "scanner":   "c:\\mult_file_check\\av_scanners\\simpleav\\x64\\av_file_scanner.exe",
+    "database" : "c:\\mult_file_check\\av_scanners\\simpleav\\x64\\demo_av_sig.db",
+    "scandir": "c:\\mult_file_check\\test_data",
+    "param0": "-t",
+    "param1": "-f",
+    "param2": "-g",
+    "param3": "-b",
+    "param4": "-p",
+    "param5": "-l",
+    "param6": "-z",
+    "parameters": "-t -f -g -b -p -l -z",
+    "verbose": 1
+}

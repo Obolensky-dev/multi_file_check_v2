@@ -1,0 +1,12 @@
+{
+    "scanner": "c:\\mult_file_check\\av_scanners\\clamav\\clamav-x64-0.102.1\\clamscan.exe",
+    "param2": "--no-summary",
+    "param3": "--quiet",
+    "param4": "--gen-json",
+    "param5": "--leave-temps=yes",
+    "param6": "--tempdir=c:\\mult_file_check\\temp",
+    "param0": "--log=c:\\mult_file_check\\temp\\clamscan.log",
+    "param1": "--verbose",
+    "parameters": "--verbose --log=c:\\mult_file_check\\temp\\clamscan.log",
+    "verbose": 1
+}
